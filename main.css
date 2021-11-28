@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+
+pre, camro{
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+}
+
+pre, computer{
+    color: rgb(255, 255, 255);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+
+h1 {
+    color: rgb(255, 123, 123);
+    text-align: center;
+    font-family: 'Roboto Mono', monospace
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;300&display=swap');
+
+p {
+    color: rgb(102, 102, 102);
+    text-align: center;
+    font-family: monospace;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover, a:active {
+    color:rgb(255, 65, 65)
+}
